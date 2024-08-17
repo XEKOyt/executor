@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main/PC.lua"))()
+loadstring(game:HttpGet("https://scriptblox.com/raw/(UPDATE-5)-King-Legacy-BLACKTRAP-11802"))()
